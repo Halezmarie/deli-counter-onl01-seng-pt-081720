@@ -15,6 +15,7 @@ def line(katz_deli)
 end
 
 def take_a_number(katz_deli, person)
+  #
   if katz_deli != []
 puts "Welcome, #{person}. You are number #{katz_deli.index(katz_deli.last) + 2} in line."
 else
