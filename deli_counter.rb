@@ -31,6 +31,7 @@ puts "There is nobody waiting to be served!"
 end
 katz_deli.shift
 end
+
 #def take_a_number(katz_deli, person)
  # new_joiner = []
   #person.each do |x| 
