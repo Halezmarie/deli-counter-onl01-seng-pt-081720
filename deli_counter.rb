@@ -29,5 +29,3 @@ puts "Currently serving #{katz_deli.first}."
 else
 puts "There is nobody waiting to be served!"
 end
-katz_deli.shift
-end
